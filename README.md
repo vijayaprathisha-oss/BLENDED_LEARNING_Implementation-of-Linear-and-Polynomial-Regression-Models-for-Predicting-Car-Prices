@@ -10,8 +10,11 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 
 ## Algorithm
 1.Load the dataset, choose input features and target price, then split into training and testing sets.
+
 2.Create a scaled linear regression pipeline, train it on the data, and make predictions.
+
 3.Create a polynomial (degree 2) regression pipeline with scaling, train it, and make predictions.
+
 4.Calculate MSE, MAE, and R² for both models and plot actual vs predicted prices to compare.
 ## Program:
 ```
